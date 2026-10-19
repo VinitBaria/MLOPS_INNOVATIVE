@@ -1,0 +1,205 @@
+{
+  "Cinema Paradiso (1988)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTljNzc4YWEtYTZlMS00ODMyLWIwMTAtNWQxY2VkMDEwYTk5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "plot": "Salvatore, a famous film director, returns to his hometown for the funeral of the local theater's film projectionist, Alfredo. He reminisces about his life as a young boy falling in love with cinema.",
+    "rating": "8.5",
+    "director": "Giuseppe Tornatore",
+    "actors": "Philippe Noiret, Enzo Cannavale, Antonella Attili"
+  },
+  "Fargo (1996)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+    "plot": "A car salesman's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of a dogged detective.",
+    "rating": "8.1",
+    "director": "Joel Coen, Ethan Coen",
+    "actors": "William H. Macy, Frances McDormand, Steve Buscemi"
+  },
+  "Empire Strikes Back, The (1980)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+    "plot": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+    "rating": "8.7",
+    "director": "Irvin Kershner",
+    "actors": "Mark Hamill, Harrison Ford, Carrie Fisher"
+  },
+  "Princess Bride, The (1987)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjFiOTEyNGMtN2E4MC00ZjZlLTk3ZDQtNTU1ZGNiZTA1MzJlXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+    "plot": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+    "rating": "8.0",
+    "director": "Rob Reiner",
+    "actors": "Cary Elwes, Mandy Patinkin, Robin Wright"
+  },
+  "Return of the Jedi (1983)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg",
+    "plot": "After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempts to destroy the second Death Star while Luke struggles to help Darth Vader back from the dark side.",
+    "rating": "8.3",
+    "director": "Richard Marquand",
+    "actors": "Mark Hamill, Harrison Ford, Carrie Fisher"
+  },
+  "Star Wars (1977)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+    "plot": "A farmboy joins forces with various allies to save their galaxy from the evil Empire's planet-destroying battle station, while also rescuing the princess leading the rebellion against them.",
+    "rating": "8.6",
+    "director": "George Lucas",
+    "actors": "Mark Hamill, Harrison Ford, Carrie Fisher"
+  },
+  "Aliens (1986)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZiMmQ0YWItN2IwZS00Y2NhLWE0NzQtNGNiOGFjN2U4MWNmXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+    "plot": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+    "rating": "8.4",
+    "director": "James Cameron",
+    "actors": "Sigourney Weaver, Michael Biehn, Carrie Henn"
+  },
+  "Wrong Trousers, The (1993)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI0ZjU1ZmUtZmRlZC00Yjg3LWI1MjktM2YwYmU1NGNiYzU0XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+    "plot": "Gromit butts heads with a mysterious penguin lodger, who hatches a sinister scheme involving the ex-NASA Techno Trousers that have been modified by Wallace for walkies.",
+    "rating": "8.3",
+    "director": "Nick Park",
+    "actors": "Peter Sallis"
+  },
+  "Blade Runner (1982)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+    "plot": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+    "rating": "8.1",
+    "director": "Ridley Scott",
+    "actors": "Harrison Ford, Rutger Hauer, Sean Young"
+  },
+  "Twelve Monkeys (1995)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTAxNzY1NTktNjA1Zi00MjJjLThkMTgtNTM0NTI1NWIzNDQ3XkEyXkFqcGdeQXVyODAyNDE3Mw@@._V1_SX300.jpg",
+    "plot": "A documentary following Terry Gilliam through the creation of \"12 Monkeys\" (1995)",
+    "rating": "7.6",
+    "director": "Keith Fulton, Louis Pepe",
+    "actors": "Keith Fulton, Terry Gilliam, Charles Roven, Lloyd Phillips"
+  },
+  "Birdcage, The (1996)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM2NjExODYyOF5BMl5BanBnXkFtZTcwNTc0NjgyNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "plot": "A gay cabaret owner and his drag queen companion agree to put up a false straight front so that their son can introduce them to his fianc\u00e9e's right-wing, conservative parents.",
+    "rating": "7.3",
+    "director": "Mike Nichols",
+    "actors": "Robin Williams, Nathan Lane, Gene Hackman"
+  },
+  "Toy Story (1995)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+    "plot": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
+    "rating": "8.3",
+    "director": "John Lasseter",
+    "actors": "Tom Hanks, Tim Allen, Don Rickles"
+  },
+  "GoldenEye (1995)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQxNmYyY2YtZGIyNy00ODgxLThhZWEtZGIyNjJhYzFlOTllXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "plot": "When a powerful secret defense system is stolen, James Bond is assigned to stop a Russian crime syndicate from using it.",
+    "rating": "7.2",
+    "director": "Martin Campbell",
+    "actors": "Pierce Brosnan, Sean Bean, Izabella Scorupco"
+  },
+  "Four Rooms (1995)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmNlMjE5YTEtZTU1My00MDc1LTgwNzctNTZlYmJmNTM3ZjYzXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+    "plot": "Four interlocking tales that take place in a fading hotel on New Year's Eve.",
+    "rating": "6.7",
+    "director": "Allison Anders, Alexandre Rockwell, Robert Rodriguez",
+    "actors": "Tim Roth, Antonio Banderas, Sammi Davis"
+  },
+  "Get Shorty (1995)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAwODYzNDY4Ml5BMl5BanBnXkFtZTcwODkwNTgzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "plot": "A mobster travels from Florida to Hollywood to collect a debt and discovers that the movie business is just as sleazy as the Miami underworld.",
+    "rating": "6.9",
+    "director": "Barry Sonnenfeld",
+    "actors": "Gene Hackman, Rene Russo, Danny DeVito"
+  },
+  "Copycat (1995)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZiODRlYWMtOGViYS00ZTNiLTlkMGQtZTAxY2IyMDAzYzU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "plot": "A criminal psychologist who turned agoraphobic after a murder attempt agrees to help two San Francisco detectives hunt for a copycat serial killer who intends on making her his next victim.",
+    "rating": "6.6",
+    "director": "Jon Amiel",
+    "actors": "Sigourney Weaver, Holly Hunter, Dermot Mulroney"
+  },
+  "Babe (1995)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYxZWZiMTgtMjJhOC00OTE1LTk0MmQtMGFiOGY3ZTAwZGRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+    "plot": "Gentle farmer Arthur Hoggett wins a piglet Babe at a county fair. Narrowly escaping his fate as Christmas dinner, Babe bonds with motherly border collie Fly and discovers that he too can herd sheep. But will the other animals acce...",
+    "rating": "6.9",
+    "director": "Chris Noonan",
+    "actors": "James Cromwell, Magda Szubanski, Christine Cavanaugh"
+  },
+  "Dead Man Walking (1995)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NzA1MjM2N15BMl5BanBnXkFtZTcwMzY3MTMzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "plot": "A nun, while comforting a convicted killer on death row, empathizes with both the killer and his victim's families.",
+    "rating": "7.5",
+    "director": "Tim Robbins",
+    "actors": "Susan Sarandon, Sean Penn, Robert Prosky"
+  },
+  "Richard III (1995)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWZjODNlYzAtNWIxZC00ZWRkLWFlMjctZGVlMDYxZTU1MGM1XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+    "plot": "The classic Shakespearean play about the murderously scheming 15th-century king is reimagined in an alternative setting of 1930s England as clouds of fascism gather.",
+    "rating": "7.3",
+    "director": "Richard Loncraine",
+    "actors": "Ian McKellen, Annette Bening, Christopher Bowen"
+  },
+  "Seven (Se7en) (1995)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
+    "plot": "Two detectives try to track down a serial killer who chooses his victims based on the Seven Deadly Sins.",
+    "rating": "8.6",
+    "director": "David Fincher",
+    "actors": "Morgan Freeman, Brad Pitt, Kevin Spacey"
+  },
+  "Usual Suspects, The (1995)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+    "plot": "The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.",
+    "rating": "8.5",
+    "director": "Bryan Singer",
+    "actors": "Kevin Spacey, Gabriel Byrne, Chazz Palminteri"
+  },
+  "Postino, Il (1994)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MTMwNjE4Ml5BMl5BanBnXkFtZTcwNTk3NTkyMQ@@._V1_SX300.jpg",
+    "plot": "A short documentary about Kashikul Vicenza, a 62-year-old postman. It covers a field of 50 villages and hamlets of the picturesque interior of Istria. This documentary was shot before his ...",
+    "rating": "9.1",
+    "director": "Cejen Cernic",
+    "actors": "N/A"
+  },
+  "Pulp Fiction (1994)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+    "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "rating": "8.8",
+    "director": "Quentin Tarantino",
+    "actors": "John Travolta, Uma Thurman, Samuel L. Jackson"
+  },
+  "Shawshank Redemption, The (1994)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "plot": "After a banker is sentenced to life in Shawshank Prison, he forms an unlikely friendship with a seasoned inmate and clings to hope amid cruelty and corruption.",
+    "rating": "9.3",
+    "director": "Frank Darabont",
+    "actors": "Tim Robbins, Morgan Freeman, Bob Gunton"
+  },
+  "Forrest Gump (1994)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+    "plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+    "rating": "8.8",
+    "director": "Robert Zemeckis",
+    "actors": "Tom Hanks, Robin Wright, Gary Sinise"
+  },
+  "Godfather, The (1972)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+    "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "rating": "9.2",
+    "director": "Francis Ford Coppola",
+    "actors": "Marlon Brando, Al Pacino, James Caan"
+  },
+  "Silence of the Lambs, The (1991)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+    "plot": "A young FBI cadet is aided by a manipulative cannibal killer in her pursuit of a madman who skins his victims.",
+    "rating": "8.6",
+    "director": "Jonathan Demme",
+    "actors": "Jodie Foster, Anthony Hopkins, Scott Glenn"
+  },
+  "Raiders of the Lost Ark (1981)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+    "plot": "In 1936, archaeologist Indiana Jones is tasked by Army Intelligence to help locate a legendary ancient power, the Ark of Covenant, before the Nazis get it first.",
+    "rating": "8.4",
+    "director": "Steven Spielberg",
+    "actors": "Harrison Ford, Karen Allen, Paul Freeman"
+  },
+  "Jurassic Park (1993)": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "plot": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+    "rating": "8.2",
+    "director": "Steven Spielberg",
+    "actors": "Sam Neill, Laura Dern, Jeff Goldblum"
+  }
+}

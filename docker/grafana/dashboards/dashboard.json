@@ -1,0 +1,105 @@
+{
+  "annotations": { "list": [] },
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 0,
+  "id": null,
+  "links": [],
+  "liveNow": false,
+  "panels": [
+    {
+      "collapsed": false,
+      "gridPos": { "h": 1, "w": 24, "x": 0, "y": 0 },
+      "id": 1,
+      "title": "API Traffic & Latency",
+      "type": "row"
+    },
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "reqps" } },
+      "gridPos": { "h": 7, "w": 12, "x": 0, "y": 1 },
+      "id": 2,
+      "title": "Request Rate (req/sec)",
+      "type": "timeseries",
+      "targets": [
+        {
+          "expr": "rate(recommendation_requests_total[1m])",
+          "legendFormat": "{{status}}"
+        }
+      ]
+    },
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "s" } },
+      "gridPos": { "h": 7, "w": 12, "x": 12, "y": 1 },
+      "id": 3,
+      "title": "Recommendation Latency (P95)",
+      "type": "timeseries",
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.95, sum(rate(recommendation_request_latency_seconds_bucket[1m])) by (le))",
+          "legendFormat": "P95 Latency"
+        }
+      ]
+    },
+    {
+      "collapsed": false,
+      "gridPos": { "h": 1, "w": 24, "x": 0, "y": 8 },
+      "id": 4,
+      "title": "ML Model Performance & Observability",
+      "type": "row"
+    },
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "min": 0, "max": 1 } },
+      "gridPos": { "h": 6, "w": 8, "x": 0, "y": 9 },
+      "id": 5,
+      "title": "NDCG@10 Score",
+      "type": "stat",
+      "targets": [
+        {
+          "expr": "model_ndcg_at_10",
+          "legendFormat": "NDCG@10"
+        }
+      ]
+    },
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "min": 0, "max": 1 } },
+      "gridPos": { "h": 6, "w": 8, "x": 8, "y": 9 },
+      "id": 6,
+      "title": "Recall@10 Score",
+      "type": "stat",
+      "targets": [
+        {
+          "expr": "model_recall_at_10",
+          "legendFormat": "Recall@10"
+        }
+      ]
+    },
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "short" } },
+      "gridPos": { "h": 6, "w": 8, "x": 16, "y": 9 },
+      "id": 7,
+      "title": "Data Drift Alert (1 = Drift Detected)",
+      "type": "stat",
+      "targets": [
+        {
+          "expr": "drift_alert_triggered",
+          "legendFormat": "Drift Status"
+        }
+      ]
+    }
+  ],
+  "refresh": "5s",
+  "schemaVersion": 38,
+  "style": "dark",
+  "tags": ["mlops", "recommender", "fastapi"],
+  "time": { "from": "now-15m", "to": "now" },
+  "timepicker": {},
+  "timezone": "",
+  "title": "Movie Recommendation MLOps Dashboard",
+  "uid": "mlops-rec-sys",
+  "version": 1
+}

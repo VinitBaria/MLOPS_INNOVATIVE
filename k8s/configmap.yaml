@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: recommender-config
+  namespace: movie-rec
+data:
+  POSTGRES_HOST: "postgres-service"
+  POSTGRES_PORT: "5432"
+  POSTGRES_DB: "movie_rec_db"
+  POSTGRES_USER: "movie_rec_user"
+  RETRAIN_THRESHOLD_NEW_RATINGS: "50"
+  MODEL_NAME: "hybrid-recommender"

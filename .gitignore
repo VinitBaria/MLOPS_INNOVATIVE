@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Data
+data/raw/
+data/processed/
+*.csv
+*.zip
+
+# ML artifacts
+mlruns/
+mlartifacts/
+models/artifacts/
+*.pkl
+*.joblib
+
+# Environment
+.env
+*.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/build/
+
+# Docker
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kubernetes secrets
+k8s/secrets/
+
+# Grafana
+monitoring/grafana/data/
+
+# Jenkins
+.jenkins/
