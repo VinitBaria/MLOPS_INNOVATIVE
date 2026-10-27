@@ -1,5 +1,5 @@
 # Multi-stage Dockerfile for FastAPI Recommender Service
-FROM python:3.11-slim as builder
+FROM python:3.11-slim AS builder
 
 WORKDIR /app
 
@@ -22,9 +22,8 @@ ENV PATH=/root/.local/bin:$PATH
 ENV PYTHONUNBUFFERED=1
 ENV PYTHONDONTWRITEBYTECODE=1
 
-# Copy source code and frontend
+# Copy source code
 COPY src/ /app/src/
-COPY frontend/ /app/frontend/
 COPY requirements.txt /app/
 
 # Expose FastAPI port

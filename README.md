@@ -94,7 +94,7 @@ docker-compose up --build -d
 | :--- | :--- | :--- |
 | **NGINX / Web App** | `http://localhost:80` | Main entry point & Web UI |
 | **FastAPI Backend** | `http://localhost:8000` | Recommendation API & Docs |
-| **MLflow Server** | `http://localhost:5000` | Experiment tracking & Model Registry |
+| **MLflow Server** | `http://localhost:5001` | Experiment tracking & Model Registry |
 | **Prometheus** | `http://localhost:9090` | Time-series metrics collection |
 | **Grafana** | `http://localhost:3001` | Observability Dashboard (`admin` / `admin`) |
 | **PostgreSQL** | `localhost:5432` | Application interaction database |
